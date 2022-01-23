@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+This is for creating react app.
 
 ## Available Scripts
 
