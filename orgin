@@ -1,0 +1,12 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex dd41102..58beeac 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,6 +1,6 @@[m
+ # Getting Started with Create React App[m
+ [m
+[31m-[m
+[32m+[m[32mThis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).[m
+ [m
+ ## Available Scripts[m
+ [m
