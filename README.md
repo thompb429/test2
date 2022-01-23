@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This is for creating react app.
+This is updated in update-readme
 
 ## Available Scripts
 
